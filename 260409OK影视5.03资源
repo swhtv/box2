@@ -49,7 +49,7 @@
                 "分类url": "https://www.ylys.tv/;;!H"
             }
         },
-
+{"key":"豆瓣","name":"華哥 豆瓣","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
 {
             "key": "永乐 華哥",
             "name": "永乐 華哥專屬",
