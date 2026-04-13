@@ -87,7 +87,19 @@
         },
 
 
-
+   {
+            "key": "王子",
+            "name": "👑王子｜華哥",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://app.95112475.xyz",
+                "dataKey": "5a9w6x58dsq6z3a6",
+                "dataIv": "5a9w6x58dsq6z3a6"
+            }
+        },
 
 
         {
