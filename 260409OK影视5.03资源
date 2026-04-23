@@ -37,6 +37,14 @@
   ],
     "warningText": "華哥提示不要相信視頻中的广告.多謝大家.",
     "sites": [
+
+{
+            "key": "金牌-影视",
+            "name": "☀金牌 華哥",
+            "type": 3,
+            "api": "csp_Jpys",
+            "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+        },
  {
             "key": "苹果",
             "name": "🍎苹果｜華哥",
@@ -57,13 +65,7 @@
                 "decrypt": "0"
             }
         },
- {
-            "key": "金牌  影视",
-            "name": "☀金牌-華哥",
-            "type": 3,
-            "api": "csp_Jpys",
-            "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
-        },
+ 
 
  {"key":"drpy_js豆瓣","name":"豆瓣-2026華哥","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/box2/refs/heads/main/260411%E8%B1%86%E7%93%A3JS"},
  {
