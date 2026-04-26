@@ -38,9 +38,20 @@
     "warningText": "華哥提示不要相信視頻中的广告.多謝大家.",
     "sites": [
 
+
+{"key":"華哥影库search检索中心","name": "華哥影库search检索中心",
+         "type": 3,
+         "searchable": 0,
+         "changeable": 1,
+         "quickSearch": 0,
+         "filterable": 0,
+         "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/lf_search3_min.js",
+         "ext": "18+"
+   	 },
+
 {
-            "key": "金牌-影视",
-            "name": "☀金牌 華哥",
+            "key": "金牌--影视",
+            "name": "☀金牌-華哥",
             "type": 3,
             "api": "csp_Jpys",
             "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
