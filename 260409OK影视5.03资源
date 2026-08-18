@@ -2,7 +2,9 @@
 
 {
 
-"spider": "https://github.com/swhtv/ak/raw/refs/heads/main/BXS.jar",
+//"spider": "https://github.com/swhtv/ak/raw/refs/heads/main/BXS.jar",
+"spider": "https://github.com/swhtv/ak/raw/refs/heads/main/aidaox-20260804-210243.jar",
+
 //"spider":"https://github.com/swhtv/box2/raw/refs/heads/main/kjtw.jar",
 //"spider": "https://github.com/swhtv/1/raw/refs/heads/main/applejar.jar",
 //"spider":"https://github.com/swhtv/1/raw/main/A4.jar",
@@ -97,6 +99,28 @@
             "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
             "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E6%AC%A7%E4%B9%90%E5%BD%B1%E9%99%A2.js"
         },
+{
+      "key": "文才",
+      "name": "華哥 wc影院 ",
+      "type": 3,
+      "api": "csp_WenCai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
+    },
+{
+      "key": "飞猫KTV",
+      "name": "🎤華哥 KTV[2K]",
+      "type": 3,
+      "api": "csp_FeimaoKtv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "{\"host\":\"https://ktv.catvod.site\",\"key\":\"ktv_jIO7myCOGTEYCLByS9ABrBXGOmxK6D8_\"}"
+    },
+
 
 
 {
@@ -368,7 +392,23 @@
 
 {"key": "百度","name": "SW-百度","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable": 1,"filterable": 0},
  {"key": "csp_XYQHiker_戏曲多多","name":"sw戏曲多多","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E6%88%8F%E6%9B%B2%E5%A4%9A%E5%A4%9A.json"}, 
-    
+   {
+      "key": "哔哩哔哩演唱会",
+      "name": "華哥演唱会[哔哩]",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "json": "https://raw.githubusercontent.com/swhtv/box/refs/heads/main/bilimusic.json"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },  
      
     {
       "key": "豪华采集",
