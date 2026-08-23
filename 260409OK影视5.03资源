@@ -2,10 +2,10 @@
 
 {
 
-//"spider": "https://github.com/swhtv/ak/raw/refs/heads/main/BXS.jar",
-"spider": "https://github.com/swhtv/ak/raw/refs/heads/main/aidaox-20260804-210243.jar",
-
+"spider": "https://github.com/swhtv/ak/raw/refs/heads/main/BXS.jar",
+//"spider": "https://github.com/swhtv/ak/raw/refs/heads/main/aidaox-20260804-210243.jar",
 //"spider":"https://github.com/swhtv/box2/raw/refs/heads/main/kjtw.jar",
+
 //"spider": "https://github.com/swhtv/1/raw/refs/heads/main/applejar.jar",
 //"spider":"https://github.com/swhtv/1/raw/main/A4.jar",
 //"spider":"https://github.com/swhtv/1/raw/refs/heads/main/qxyc%E5%A4%A9%E5%BE%AE%E7%A7%91%E6%8A%80.jar",
@@ -103,6 +103,7 @@
       "key": "文才",
       "name": "華哥 wc影院 ",
       "type": 3,
+ "jar": "https://github.com/swhtv/ak/raw/refs/heads/main/aidaox-20260804-210243.jar",
       "api": "csp_WenCai",
       "searchable": 1,
       "filterable": 1,
@@ -113,6 +114,7 @@
       "key": "飞猫KTV",
       "name": "🎤華哥 KTV[2K]",
       "type": 3,
+ "jar": "https://github.com/swhtv/ak/raw/refs/heads/main/aidaox-20260804-210243.jar",
       "api": "csp_FeimaoKtv",
       "searchable": 1,
       "quickSearch": 1,
@@ -396,6 +398,7 @@
       "key": "哔哩哔哩演唱会",
       "name": "華哥演唱会[哔哩]",
       "type": 3,
+ "jar": "https://github.com/swhtv/ak/raw/refs/heads/main/aidaox-20260804-210243.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
