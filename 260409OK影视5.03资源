@@ -449,28 +449,7 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/初见影视.py"
 		},
  
-		{
-          "key": "爱奇艺",
-          "name": "爱奇艺 華哥.py",
-          "type": 3,
-          "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/爱奇艺.py"
-        },
-        
 
-		{
-            "key": "腾爱优芒B",
-            "name": "腾爱优芒 華哥.py",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/腾爱优芒B.py"
-        },
-	
-		{
-            "key":"youtube",
-            "name":"油管 華哥.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/油管.py"
-		},
-	
 
 		{
         	"key": "开端影视",
@@ -487,12 +466,7 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/CNFLIX.py"
         },
 	
-		{
-            "key": "永乐视频",
-            "name": "永乐 華哥.py",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/永乐视频.py"
-        },
+	
 		{
             "key": "夏日影院",
             "name": "夏日 華哥.py",
@@ -507,14 +481,7 @@
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/多多影视.py"
         },
-	
-		{
-            "key": "看戏影视",
-            "name": "看戏 華哥.py",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/看戏影视.py"
-        },
-	
+
 
 
 		{
@@ -567,13 +534,6 @@
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/茶杯狐.py"
 		},
-		{
-      "key": "ppx",
-      "name": "皮皮虾 華哥.py",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/皮皮虾.py",
-      "ext": "http://43.248.117.123:4680"
-       },
 
 		{
 			"key": "开心影院js",
@@ -598,13 +558,7 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/太乙影视.py"
 		},
 	
-	
-		{
-			"key": "美剧天堂",
-			"name": "美剧天堂 華哥.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/美剧天堂.py"
-		},
+
 	
 	{
 			"key": "dnyy",
@@ -640,14 +594,7 @@
 	
 	
 	
-	
-		{
-           "key": "8tdy",
-           "name": "八天电影 華哥.py",
-           "type": 3,
-           "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/八天电影.py"
-        },
-	
+
 		{
 			"key": "cjjh",
 			"name": "采集聚合 華哥.py",
@@ -727,38 +674,121 @@
         },
 
 	
-
-		{
-			"key": "音乐聚合",
-			"name": "音乐聚合 華哥.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/音乐聚合.py"
-		},
-		{
+{
 			"key": "影子音乐",
 			"name": "影子音乐 華哥.py",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/影子音乐.py"
 		},
-		{
-			"key": "千千音乐",
-			"name": "千千音乐 華哥.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/千千音乐.py"
-		},
+	
 		{
 			"key": "枫叶音乐",
 			"name": "枫叶音乐 華哥.py",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/枫叶音乐.py"
 		},
-		{
-			"key": "kwms",
-			"name": "酷我音乐 華哥.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/酷我音乐.py"
-		},
 
+
+
+ {
+      "name": "📦①线┃華哥",
+      "key": "AppV7Fz",
+      "type": 3,
+ "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png;md5;34002829de835999f4d2b62b3e0d1cea",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Fz"
+    },
+    {
+      "name": "📦②线┃華哥",
+      "key": "AppV7Xy",
+      "type": 3,
+ "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png;md5;34002829de835999f4d2b62b3e0d1cea",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xy"
+    },
+    {
+      "name": "📦③线┃華哥",
+      "key": "AppV7Zjdr",
+      "type": 3,
+ "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png;md5;34002829de835999f4d2b62b3e0d1cea",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Zjdr"
+    },
+    {
+      "name": "📦④线┃華哥",
+      "key": "AppV7Xyz",
+      "type": 3,
+ "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png;md5;34002829de835999f4d2b62b3e0d1cea",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xyz"
+    },
+    {
+      "name": "📦⑤线┃華哥",
+      "key": "AppV7Xnm",
+      "type": 3,
+ "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png;md5;34002829de835999f4d2b62b3e0d1cea",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xnm"
+    },
+    {
+      "name": "📦⑥线┃華哥",
+      "key": "AppV7Mtq",
+      "type": 3,
+ "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png;md5;34002829de835999f4d2b62b3e0d1cea",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Mtq"
+    },
+    {
+      "name": "📦⑦线┃華哥",
+      "key": "AppV7Llq",
+      "type": 3,
+ "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png;md5;34002829de835999f4d2b62b3e0d1cea",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Llq"
+    },
+    {
+      "name": "📦⑧线┃華哥",
+      "key": "AppV7Xsz",
+      "type": 3,
+ "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png;md5;34002829de835999f4d2b62b3e0d1cea",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xsz"
+    },
+    {
+      "name": "📦⑨线┃華哥",
+      "key": "AppV7Xhr",
+      "type": 3,
+ "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png;md5;34002829de835999f4d2b62b3e0d1cea",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xhr"
+    },
 
     {
       "key": "豪华采集",
