@@ -63,7 +63,20 @@
             "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
 
-	
+	    {
+      "key": "奈飞4K",
+      "name": "華哥 Netflix",
+      "type": 1,
+      "api": "https://api.wsyzy.net/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "4K电影",
+        "Netflix电影",
+        "Netflix自制剧"
+      ]
+    },
 
       { 
             "key": "独播影视", 
