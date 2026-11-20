@@ -73,9 +73,6 @@
 { "key": "wsycj", "name": "SW華哥資源丨采集", "type": 1, "api": "https://api.wsyzy.net/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "4K电影", "Netflix电影", "Netflix自制剧","欧美剧", "海外剧","国产剧","港剧",  "韩剧", "日剧",  "台剧", "泰剧","邵氏电影", "演唱会", "动作片", "战争片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "记录片", "动画片",  "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "有声动漫", "女频恋爱", "反转爽剧", "古装仙侠", "年代穿越", "脑洞悬疑", "AI剧场", "现代都市", "擦边短剧", "漫剧" ] },
 
 
-{ "key": "茅台影视", "name": "SWTV MAOTAI", "type": 1, "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/json", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-
-
  {
             "key": "🚬独播库",
             "name": "華哥 独播",
@@ -93,11 +90,6 @@
 
 {"name":"🧩杜北|華哥","key":"Dubk","type":3,"jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_DubkAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://nos.netease.com/youdata-netease/public-utilUpload-dETsDhhkydVym6T7qzn7WB.gz"},
 
-
-
-
-{"name":"🧩伊外|華哥","key":"YIys","type":3, "jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_YIysAmns","searchable":1,"quickSearch":1,"changeable":0},
-{"name":"🧩爱看|華哥","key":"AiBot","type":3,"jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_AiBotAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"name":"🌍爱瓜華哥","key":"AiGua","type":3,"jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_AiGuaAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"name":"🌍U视華哥","key":"Ysp","type":3,"jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_YspAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"name":"🌍欧乐華哥","key":"Olyy","type":3,"jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_OlyyAmns","searchable":1,"quickSearch":1,"changeable":0},
@@ -113,9 +105,7 @@
         },
 
 		{"key": "ikun", "name": "爱坤華哥", "type": 1, "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json", "searchable": 1, "quickSearch": 1, "filterable": 1},
-      
-		{"key": "虎牙资源", "name": "虎牙華哥", "type": 1, "api": "https://www.huyaapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
-		{"key": "ttzy", "name": "天天華哥", "type": 1, "api": "https://api.1080zyku.com/inc/apijson.php", "searchable": 1, "quickSearch": 1, "filterable": 1},
+      		{"key": "ttzy", "name": "天天華哥", "type": 1, "api": "https://api.1080zyku.com/inc/apijson.php", "searchable": 1, "quickSearch": 1, "filterable": 1},
 
 
 	{
@@ -127,7 +117,6 @@
 			"searchable": 1,
 			"quickSearch": 1
 		},
-{ "name": "橘汁┃華哥", "key": "Woshinidie", "type": 3, "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/0f5c235d-ee40-42a0-a19a-b7f29986c51c.png;md5;7a2cb30dc4937d27e57288b5c381e19c", "api": "csp_Woshinidie", "searchable": 1, "quickSearch": 1, "changeable": 1 },
 
 { "name": "華哥-南瓜", "key": "AppV7Mtq", "type": 3, "jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008", "api": "csp_AppV7Amns", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "AppV7Mtq" },
 
@@ -229,27 +218,7 @@
  
 
  {"key":"drpy_js豆瓣","name":"豆瓣-2026華哥","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/box2/refs/heads/main/260411%E8%B1%86%E7%93%A3JS"},
- {
-            "key": "华谊",
-            "name": "🎭华谊｜華哥",
-            "type": 3,
-            "api": "csp_AppDrama",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "appName": "华谊",
-                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
-                "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
-                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-                "pkg": "com.muyue.tool",
-                "host": "",
-                "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
-                "version": "1.0.0.4",
-                "decrypt": "1"
-            }
-        },
-       
+
 
  
 
@@ -330,101 +299,8 @@
 
 
 
-		{
-        	"key": "开端影视",
-            "name": "开端 華哥.py",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/开端影视.py"
-		},
-
-      
-		{
-            "key": "CNFLIX",
-            "name": "CNFLIX 華哥.py",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/CNFLIX.py"
-        },
-	
-	
-		{
-            "key": "夏日影院",
-            "name": "夏日 華哥.py",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/夏日影院.py"
-        },
-
-
-		{
-            "key": "多多影视",
-            "name": "多多 華哥.py",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/多多影视.py"
-        },
-
-
-
-		{
-            "key": "FoFo影院",
-            "name": "FoFo 華哥.py",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/FoFo影院.py"
-        },
-	
-	
-		
-
-		{
-			"key": "视觉影院",
-			"name": "视觉 華哥.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/视觉影院.py"
-		},
 	
 
-
-		{
-			"key": "蝶卡影视",
-			"name": "蝶卡影视 華哥.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/蝶卡影视.py"
-		},
-
-
-		{
-			"key": "cbh",
-			"name": "茶杯狐 華哥.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/茶杯狐.py"
-		},
-
-	
-
-	
-	{
-			"key": "dnyy",
-			"name": "多瑙影院 華哥.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/多瑙影院.py"
-		},
-
-		
-	
-		{
-			"key": "qmvm",
-			"name": "七猫影视 華哥.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/七猫影视.py"
-		},
-	
-	
-	
-
-		{
-			"key": "cjjh",
-			"name": "采集聚合 華哥.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/采集聚合.py"
-		},
 		{
             "key": "API_如意",
             "name": "如意 華哥.py",
@@ -472,13 +348,6 @@
          ]
          }, 
 	
-	{
-            "key":"youtube2",
-            "name":"油管直播 華哥.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/油管直播.py"
-		},
-
 
 
 
